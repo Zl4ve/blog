@@ -1,0 +1,28 @@
+.post-preview {
+    display: block;
+    margin: 30px auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.post-preview img {
+    max-width: 500px;
+    height: auto;
+}
+
+.title-text {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.posts {
+    margin: 0px auto;
+    width: 50%;
+}
+
+.suggest {
+    font-size: 30px;
+    margin: 15px;
+}

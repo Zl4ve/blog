@@ -1,0 +1,34 @@
+.input-block {
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 25px;
+    margin: 100px auto;
+    width: 25%;
+    padding: 15px;
+}
+
+.input-block span {
+    color: red;
+}
+
+.sign-input {
+    height: 30px;
+    width: 300px;
+    font-size: 17px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.sign-button {
+    width: 150px;
+    height: 25px;
+    font-size: 17px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.sign-title {
+    font-size: 35px;
+    margin-bottom: 20px;
+}

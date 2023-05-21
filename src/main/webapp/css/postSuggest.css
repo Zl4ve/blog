@@ -1,0 +1,37 @@
+.suggest-container {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.post-suggest {
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px 0px;
+}
+
+.post-suggest-title {
+    font-size: 30px;
+    margin: 30px 0px;
+}
+
+.post-suggest-title-form {
+    font-size: 20px;
+}
+
+.post-suggest-title-form input {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.post-suggest span {
+    color: red;
+}
+
+.post-suggest-textarea {
+    border: 1px solid black;
+    border-radius: 10px;
+}
